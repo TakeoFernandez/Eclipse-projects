@@ -10,6 +10,7 @@
 using namespace std;
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	cout << " testing commit" << "\n";
+	cout << "hi" << endl;
 	return 0;
 }
